@@ -45,4 +45,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-Apollo GraphQL is also needed to run this application, you may run this in the terminal to download: npm install @apollo/client graphql
+Apollo GraphQL is also needed to run this application, you may run this in the terminal to download: 
+
+npm install @apollo/client graphql
